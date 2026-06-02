@@ -1,6 +1,6 @@
 # A Quasi-LPV Dynamic Output Feedback Stabilizer for Nonlinear Descriptor Systems via Convex
 
-**Manuscript ID:** IEEE LATAM Submission ID: 10536 
+**Manuscript ID:**  IEEE Latin America Transactions Submission ID: 10536 
 
 **Authors:**  
 - Arturo Alvarado, Department of Mechatronics of the Universidad Politécnica de Pachuca, C.P. 43830, Zempoala, Hidalgo, Mexico
